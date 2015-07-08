@@ -5,7 +5,7 @@ using System.Text;
 using System.Data.Entity;
 namespace Factory
 {
-    static class Controller
+    public static class Controller
     {
         private static dbFChocolate db = new dbFChocolate();
         private static string name, lastname, email;
@@ -40,7 +40,7 @@ namespace Factory
         {
             Console.WriteLine("Buscar Perfil: ");
             name = Console.ReadLine();
-            nameIQ = from person in db.User_profile where person.FirstName.Contains(name) select person;
+            nameIQ = from person in db.User_profile where person.FirstName + " " + person.LastName == name select person;
             if (!nameIQ.Any())
             {
                 Console.WriteLine("No se encuentra Este perfil No existe");

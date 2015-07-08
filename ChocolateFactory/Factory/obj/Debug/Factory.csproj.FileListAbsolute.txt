@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2012\Projects\ChocolateFactory\Factory\bin\Debug\Factory.exe.config
+C:\Users\user\Chocolate-Factory\ChocolateFactory\Factory\bin\Debug\Factory.exe.config
+C:\Users\user\Chocolate-Factory\ChocolateFactory\Factory\bin\Debug\Factory.exe
+C:\Users\user\Chocolate-Factory\ChocolateFactory\Factory\bin\Debug\Factory.pdb
+C:\Users\user\Chocolate-Factory\ChocolateFactory\Factory\bin\Debug\EntityFramework.dll
+C:\Users\user\Chocolate-Factory\ChocolateFactory\Factory\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Chocolate-Factory\ChocolateFactory\Factory\bin\Debug\EntityFramework.xml
+C:\Users\user\Chocolate-Factory\ChocolateFactory\Factory\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Chocolate-Factory\ChocolateFactory\Factory\obj\Debug\Factory.exe
+C:\Users\user\Chocolate-Factory\ChocolateFactory\Factory\obj\Debug\Factory.pdb
+C:\Users\user\Chocolate-Factory\ChocolateFactory\Factory\obj\Debug\Factory.csprojResolveAssemblyReference.cache
